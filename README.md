@@ -1,21 +1,83 @@
-👋 Hello there! I'm Amira Ali, a passionate developer known as @amiralikh.
+# Amir Khoshnevis
 
-🚀 I specialize in crafting exceptional web applications using Laravel and Vue.js, while also having a deep love for developing mobile applications with Flutter. My expertise lies in blending creative designs with functionality to create engaging user experiences.
+Full-Stack Engineer & Product Builder  
+Laravel · Livewire · Alpine.js · Typesense · Go · Vue
 
-📫 Feel free to reach out to me by sending a message to my linkedin: linkedin.com/in/amiralikh.
+---
 
-Here's a glimpse of some of my notable projects:
+## About Me
 
-QMation (Queue Mation): A smart, scalable, flexible, and fully responsive web-based queue management system, designed to operate seamlessly without an internet connection. Developed using Laravel, Vue.js, and WebSockets, this app allows you to create multiple queues, add unlimited operators, departments, and more.
+I’m a full-stack engineer and product-focused builder with experience designing and implementing scalable web platforms and backend systems. I focus on clean architecture, performance, and long-term maintainability, with a strong preference for solutions that are simple, explicit, and resilient.
 
-Ma-Toot: A comprehensive school management platform featuring online exams, homework assignments, and efficient management of teachers and students. Developed using Laravel and Vue.js.
+My work involves building complex application flows, real-time user interfaces, search and discovery systems, and trust-oriented platform features. I enjoy working close to the problem space—translating real-world requirements into well-structured, production-ready software.
 
-Xite: A robust accounting CRM developed with Laravel and Inertia.
+I value thoughtful system design, clear domain boundaries, and developer experience, and I’m particularly interested in systems that balance usability, privacy, and technical correctness.
 
-RavanKaranSanaat: A versatile platform for selling private company services, focused on managing marketers and customers. The web application panel is developed using Laravel and Bootstrap, while the mobile application is built with Flutter.
+---
 
-DialPlus: An extensive encyclopedia and guideline for dialysis patients, developed using Laravel for the web and Flutter for the mobile application.
+## Technical Focus
 
-PetiClub: One of my largest projects to date, encompassing various modules like e-commerce marketplace, encyclopedia, blog, video streaming, social media, medical clinic, and more. This project was developed using a wide range of technologies including Laravel, Vue.js, Bootstrap, Flutter, REST API, Node.js, and Socket.IO.
+### Backend
+- Laravel (advanced architecture, queues, jobs, APIs)
+- Livewire / Volt for reactive server-driven UIs
+- Go for background services and system-level tooling
+- MySQL / SQLite / JSON-based indexing pipelines
 
-To explore my full resume or discuss potential collaborations, don't hesitate to get in touch! 💞️
+### Frontend
+- Alpine.js for lightweight interactivity
+- Tailwind CSS for scalable design systems
+- Real-time UI patterns and progressive enhancement
+
+### Search & Intelligence
+- Typesense (custom indexing, facets, relevance tuning)
+- Matching algorithms (psychological, lifestyle, preference-based)
+- Structured data extraction and ranking logic
+
+### Systems & Infrastructure
+- Background workers and long-running services
+- Windows services and tray-based applications
+- Stripe Connect & escrow-style payment flows
+- KYC, verification, and trust-based system design
+
+---
+
+## Selected Project Themes
+
+- **Intelligent Matching Systems**  
+  Compatibility scoring using psychological traits, lifestyle data, and personal boundaries.
+
+- **Search & Discovery Platforms**  
+  Custom indexing pipelines, faceted filtering, and relevance-aware search UIs.
+
+- **Marketplaces & Trust Systems**  
+  Identity verification, escrow payments, liability handling, and reputation mechanisms.
+
+- **Product-Focused Engineering**  
+  Systems built around real users, not just technical novelty.
+
+---
+
+## Philosophy
+
+> Simple solutions scale better than clever ones.
+
+I aim for pragmatic engineering: minimal complexity, explicit trade-offs, and systems that can evolve without rewrites.
+
+---
+
+## Current Interests
+
+- Search relevance engineering
+- Privacy-aware user modeling
+- High-trust platform design
+
+---
+
+## Contact
+
+- GitHub: https://github.com/amiralikh
+- Website: https://knightify.tech
+
+---
+
+_This profile represents ongoing work and experimentation. Not all projects are public._
