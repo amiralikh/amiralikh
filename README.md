@@ -1,5 +1,4 @@
 # Amir Khoshnevis
-
 Full-Stack Engineer & Product Builder  
 Laravel · Livewire · Alpine.js · Typesense · Go · Vue
 
@@ -7,11 +6,11 @@ Laravel · Livewire · Alpine.js · Typesense · Go · Vue
 
 ## About Me
 
-I’m a full-stack engineer and product-focused builder with experience designing and implementing scalable web platforms and backend systems. I focus on clean architecture, performance, and long-term maintainability, with a strong preference for solutions that are simple, explicit, and resilient.
+I'm a full-stack engineer and product-focused builder with experience designing and implementing scalable web platforms and backend systems. I focus on clean architecture, performance, and long-term maintainability, with a strong preference for solutions that are simple, explicit, and resilient.
 
-My work involves building complex application flows, real-time user interfaces, search and discovery systems, and trust-oriented platform features. I enjoy working close to the problem space—translating real-world requirements into well-structured, production-ready software.
+My work spans complex application flows, real-time user interfaces, search and discovery systems, and trust-oriented platform features. I enjoy working close to the problem space—translating real-world requirements into well-structured, production-ready software.
 
-I value thoughtful system design, clear domain boundaries, and developer experience, and I’m particularly interested in systems that balance usability, privacy, and technical correctness.
+I value thoughtful system design, clear domain boundaries, and developer experience, and I'm particularly interested in systems that balance usability, privacy, and technical correctness.
 
 ---
 
@@ -57,6 +56,16 @@ I value thoughtful system design, clear domain boundaries, and developer experie
 
 ---
 
+## Challenges & AI-Augmented Development
+
+I actively seek out problems that push beyond routine implementation—the kind that require actual thinking, not just pattern-matching from the last Stack Overflow answer.
+
+This includes integrating AI tools and agents into real workflows: building systems that interact with LLMs, designing agentic pipelines, and figuring out where AI genuinely helps versus where it confidently hallucinates your schema into oblivion. I find the intersection of structured software engineering and AI tooling particularly interesting—especially when the goal is practical reliability, not demos.
+
+I also do vibe coding on occasion. Not because I've abandoned my principles, but because sometimes the fastest way to validate an idea is to just let it run and see what breaks first. (Usually the schema. It's always the schema.)
+
+---
+
 ## Philosophy
 
 > Simple solutions scale better than clever ones.
@@ -70,6 +79,7 @@ I aim for pragmatic engineering: minimal complexity, explicit trade-offs, and sy
 - Search relevance engineering
 - Privacy-aware user modeling
 - High-trust platform design
+- AI agent architecture and human-in-the-loop system design
 
 ---
 
